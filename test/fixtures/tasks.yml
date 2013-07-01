@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  description: MyText
+  priority: 1
+  created: 2013-06-30
+  due: 2013-06-30
+  completionDate: 2013-06-30
+
+two:
+  name: MyString
+  description: MyText
+  priority: 1
+  created: 2013-06-30
+  due: 2013-06-30
+  completionDate: 2013-06-30
